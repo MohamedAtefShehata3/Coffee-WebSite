@@ -86,13 +86,13 @@ No installation or build tools required.
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/YOUR-REPO.git
+git clone https://github.com/MohamedAtefShehata3/YOUR-REPO.git
 ```
 
 ### 2. Open the project
 
 ```bash
-cd YOUR-REPO
+cd https://github.com/MohamedAtefShehata3/Coffee-WebSite.git
 ```
 
 ### 3. Run it
