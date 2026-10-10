@@ -17,7 +17,7 @@
   <img src="https://img.shields.io/badge/License-MIT-lightgrey?style=flat-square" alt="License" />
 </p>
 
-[🌐 Live Demo]((https://mohamedatefshehata3.github.io/Coffee-WebSite/)) • [🐞 Report Bug](https://github.com/MohamedAtefShehata3/https://github.com/MohamedAtefShehata3/Coffee-WebSite.git/issues) • [✨ Request Feature](https://github.com/YOUR-USERNAME/YOUR-REPO/issues)
+[🌐 Live Demo]([https://mohamedatefshehata3.github.io/Coffee-WebSite/]) • [🐞 Report Bug](https://github.com/MohamedAtefShehata3/https://github.com/MohamedAtefShehata3/Coffee-WebSite.git/issues) • [✨ Request Feature](https://github.com/YOUR-USERNAME/YOUR-REPO/issues)
 
 </div>
 
