@@ -23,17 +23,6 @@
 
 ---
 
-## 📸 Preview
-
-<!-- Replace with your own screenshots -->
-<div align="center">
-  <img src="./screenshots/desktop.png" alt="Desktop preview" width="80%" />
-  <br/><br/>
-  <img src="./screenshots/mobile.png" alt="Mobile preview" width="30%" />
-</div>
-
----
-
 ## 📖 About The Project
 
 **Cold Coffee** is a polished single-page landing website for a coffee shop. It combines a bold visual identity with smooth scroll animations, an interactive product carousel and a fully responsive layout that looks great on every screen — from small phones to large desktops.
